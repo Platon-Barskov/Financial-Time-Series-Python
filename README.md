@@ -10,5 +10,5 @@ Analysed historical performance of S&P 500 ETF constituents using Python. Explor
 - Time-series exploration
 
 ## Key Findings
-- Identified patterns in ETF performance over the last 5 years
+- Identified patterns in ETF performance using real world data
 - Demonstrated basic statistical relationships between price movements
